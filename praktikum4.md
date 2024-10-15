@@ -1,4 +1,6 @@
-Neljandas praktikumis tutvusime Windows 11-ne turvalisuse suurendamise võimalustega ja haldasime kasutajaõiguseid.
+PRAKTIKUM 4
+
+Neljandas praktikumis tutvusime Windows 11-ne turvalisuse suurendamise võimalustega ja haldasime kasutajaõiguseid.  
 1.
 ![image](https://github.com/user-attachments/assets/0d531601-e4f6-4d24-9c04-5c842fe154e0)
 2.
@@ -6,11 +8,11 @@ Neljandas praktikumis tutvusime Windows 11-ne turvalisuse suurendamise võimalus
 3.
 ![image](https://github.com/user-attachments/assets/d6f43919-5657-4732-a611-ad0987850ddc)
 4.
-Süsteemi õigusi on vaja nt ajavööndi muutmiseks.
+Süsteemi õigusi on vaja nt ajavööndi muutmiseks.  
 5.
 ![image](https://github.com/user-attachments/assets/01e268c0-921f-4a36-b5e4-75bf6162b5eb)
 6.
-Microsoft soovitab lülitada sisse mälu tervikluse.
+Microsoft soovitab muuhulgas lülitada sisse mälu tervikluse.  
 7.
 ![image](https://github.com/user-attachments/assets/bf925803-1dd4-43a9-9bde-416016d96dd3)
 8.
